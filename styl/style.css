@@ -480,3 +480,36 @@ feedback end  */
 .manytxt{
     margin-top: 90px;
 }
+/* end */
+
+/* start */
+.aboutUs2{
+    display: grid;
+    grid-template-columns: 1fr ;
+    grid-template-rows: 2fr ;
+    width: 375px;
+}
+.big{
+    display: grid;
+    grid-template-columns: 1fr ;
+    grid-template-rows: 2fr ;
+    width: 375px;
+}
+.onas{
+    font-size: calc(2.4vw + 24px);
+    font-weight: 500;
+    line-height: 117%;
+}
+.trt{
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 114%;
+}
+.trt1{
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 117%;
+}
+.big{
+    margin-left: 97px;
+}
